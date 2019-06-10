@@ -1,0 +1,19 @@
+* {
+  background-color: #e0e0e0;
+}
+.input-box {
+  margin: 0px;
+  background-color: black;
+  height: 60px;
+  width: 100px;
+}
+.color-picker {
+  margin-top: 8px;
+  margin-left: 8px;
+  width: 80px;
+  border: 0px solid black;
+}
+.make {
+  width: 83px;
+  margin-left: 8px;
+}
